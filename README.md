@@ -1,10 +1,10 @@
 # 基于Excalidraw官方版本16.1，支持中文手写，支持实时协作
 
-截图:
+## 截图:
 
 ![snapshot](./_assets/Snipaste.png)
 
-演示网站:
+## 演示网站:
 
 [Live Demo](https://draw.gc-boy.com/)
 A live room sample here: [live room](https://draw.gc-boy.com/#room=6e8d4d2a919c1e0dc84c,eFibbJzUwJSzGqo9nshPHQ)
@@ -22,6 +22,7 @@ A live room sample here: [live room](https://draw.gc-boy.com/#room=6e8d4d2a919c1
   VITE_APP_WS_SERVER_URL=https://yourdomain
   ```
   把yourdomain改成你的域名
+
 2.构建镜像
 
 ## 注意事项
